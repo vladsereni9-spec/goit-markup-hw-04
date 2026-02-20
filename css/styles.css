@@ -251,7 +251,6 @@ address {
   font-weight: 700;
   margin-bottom: 72px;
   color: #2e2f42;
-  text-transform: capitalize;
 }
 
 .team-list {
@@ -441,7 +440,7 @@ border-top: none;
   line-height: 1.17;  
    letter-spacing: 0.03em;
   display: inline-block;
-  margin-bottom: 16px;
+margin-bottom: 0;
   color: #4d5ae5;
   text-transform: uppercase;
 }
