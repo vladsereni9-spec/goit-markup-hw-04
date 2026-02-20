@@ -324,7 +324,7 @@ address {
 .team-text {
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.2;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
   margin: 0;
@@ -481,7 +481,7 @@ border-top: none;
 .footer-social-link {
   width: 40px;
   height: 40px;
-  background-color: rgba(255,255,255,0.1);
+  background-color: #4d5ae5;
   border-radius: 50%;
 
   display: flex;
