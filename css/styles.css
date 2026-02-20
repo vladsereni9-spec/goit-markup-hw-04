@@ -387,6 +387,8 @@ address {
   line-height: 1.5;
   letter-spacing: 0.02em;
   font-weight: 400;
+   white-space: normal; 
+  overflow-wrap: break-word;
 }
 .app-card:hover .app-overlay {
   transform: translateY(0%);
